@@ -11,7 +11,7 @@
   
 ## Development
 * The source is already compiled and the binary is sitting under bin folder, so probably `make build` not needed unless source is changed.
-* Run `make play` - Compiles and builds binary and runs the binary
+* Run `make play` - Compiles and builds binary
 * Run  `make tests` - Run all the unit test
 
 ## Example Input and Output
